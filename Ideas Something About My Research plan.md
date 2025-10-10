@@ -1,7 +1,7 @@
 # Ideas Something About My Research plan
 
 
-Main theme is about:
+## Main theme is about:
  Research on Optimization of Software Testing and Reuse Strategies Based on Machine Learning
 
 1. Machine Learning
@@ -23,7 +23,8 @@ something might be used in research plan:
 TensorFlow、Pytorch、Lora、Bert、Qlora、peft
 
 
-First paper read will soon be uploaded:Machine Learning for Software Engineering A Tertiary Study
+### First paper read will soon be uploaded:Machine Learning for Software Engineering A Tertiary Study
 
-Second paper read will soon be uploaded:Software Reuse Research: Status and Future
+### Second paper read will soon be uploaded:Software Reuse Research: Status and Future
+
 
