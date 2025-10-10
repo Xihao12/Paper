@@ -1,4 +1,4 @@
-#Ideas Something About My Research plan
+# Ideas Something About My Research plan
 
 Main theme is about:
  Research on Optimization of Software Testing and Reuse Strategies Based on Machine Learning
@@ -20,4 +20,5 @@ Using Java、Android(?)、Python
 something might be used in research plan:
 
 TensorFlow、Pytorch、Lora、Bert、Qlora、peft
+
 
