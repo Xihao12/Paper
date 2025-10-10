@@ -16,4 +16,7 @@ Using Java、Android(?)、Python
 3. Is it a must to use Fine-tuning and Evaluation
 
 
-something might be used in research plan
+
+something might be used in research plan:
+
+TensorFlow、Pytorch、Lora、Bert、Qlora、peft
